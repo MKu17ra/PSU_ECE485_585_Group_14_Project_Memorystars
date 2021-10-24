@@ -3,8 +3,22 @@ Team members:
 Madison Klementyn
 Jana Alhuneidi
 Julia Bogdan Filipchuk
+Bradley Chase
 
-Final Project Description
+## Checkpoints
+- Dates are still TBD. We need to meet with ta for each one.
+- [ ] Read andd parse input trace file. (user specified name)
+- [ ] Toggleable debug at runtime or compiletime
+- [ ] Github repository setup
+- [ ] Diagram showing mapping of address bits
+- [ ] Working code
+  - [ ] Add items to queues
+  - [ ] Remove items form queues
+  - [ ] Maintain correct (sumulated) time
+  - [ ] State what info neds to be in the queue
+- [ ] Demo of correct output for DRAM commands
+
+## Final Project Description
 
 Your team is responsible for the simulation of a memory controller capable serving the
 shared last level cache of a four core 3.2 GHz processor employing a single memory
