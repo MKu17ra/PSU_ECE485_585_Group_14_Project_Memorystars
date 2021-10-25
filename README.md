@@ -1,9 +1,5 @@
-# PSU_ECE485_585_Group_14_Project_Memorystars
-Team members: \
-Madison Klementyn \
-Jana Alhuneidi \
-Julia Bogdan Filipchuk \
-Bradley Chase
+# ECE485 DRAM Scheduling Algorithm
+Team members: Madison Klementyn, Jana Alhuneidi, Julia Bogdan Filipchuk, Bradley Chase
 
 ## Checkpoints
 ### Tuesday, November 2nd at noon
