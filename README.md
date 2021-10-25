@@ -1,16 +1,18 @@
 # PSU_ECE485_585_Group_14_Project_Memorystars
-Team members:
-Madison Klementyn
-Jana Alhuneidi
-Julia Bogdan Filipchuk
+Team members: \
+Madison Klementyn \
+Jana Alhuneidi \
+Julia Bogdan Filipchuk \
 Bradley Chase
 
 ## Checkpoints
-- Dates are still TBD. We need to meet with ta for each one.
-- [ ] Read andd parse input trace file. (user specified name)
+### Tuesday, November 2nd at noon
+- [ ] Read and parse input trace file. (user specified name)
 - [ ] Toggleable debug at runtime or compiletime
 - [ ] Github repository setup
 - [ ] Diagram showing mapping of address bits
+
+### TBD
 - [ ] Working code
   - [ ] Add items to queues
   - [ ] Remove items form queues
