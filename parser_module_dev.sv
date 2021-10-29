@@ -54,8 +54,10 @@ module parser								//Parameters can be changed per module
              //error logic code;
             }
   //READ TRACEFILE
-    while ($fscanf (fd_r, "%//scanf logic") == 2) begin // parse input line into in_buff 
-      $display ("display input");
+    //add timing conditionals -- switch case?
+    while ($fscanf (fd_r, "%//scanf logic") == 2) 
+      begin // parse input line into in_buff 
+        $display ("display input");
     end
   
   //use IN_BUFF to read a line and hold it while the MEMOP_TIME and friends hold the previous lines info
